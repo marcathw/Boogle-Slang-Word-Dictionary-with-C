@@ -19,9 +19,9 @@ A C program that enables users to interact with a dynamic slang dictionary using
 
 ## 🧠 Concepts Used
 
-- **Trie (Prefix Tree)**
-- **Dynamic Memory Allocation**
-- **String Manipulation**
-- **Input Validation**
-- **Menu-Driven CLI**
-- **Recursive Traversal**
+- Trie (Prefix Tree)
+- Dynamic Memory Allocation
+- String Manipulation
+- Input Validation
+- Menu-Driven CLI
+- Recursive Traversal
